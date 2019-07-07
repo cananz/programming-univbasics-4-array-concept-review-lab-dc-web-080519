@@ -1,7 +1,7 @@
 #find_element_index(array, value_to_find) takes in an array and a value and returns the index of that value
 def find_element_index(array, value_to_find)
-  array.length.times do 
-items.each do |index|
+  array.length.times do |item|
+
  
 end
 
